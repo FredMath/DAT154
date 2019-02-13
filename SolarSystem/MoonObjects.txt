@@ -1,0 +1,4 @@
+Luna	20,0	27	1730	30	LightGray	Earth
+Phobos	23,0	60	90	30	LightGray	Mars
+Io	422,0	60	1822	25	LightYellow	Jupiter
+Titan	1222,0	55	2575	25	Yellow	Saturn
